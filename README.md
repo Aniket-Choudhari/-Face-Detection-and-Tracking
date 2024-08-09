@@ -17,7 +17,7 @@ This project detects and tracks human faces in a live video stream. By using Haa
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Face-Detection-and-Tracking.git
+   git clone https://github.com/Aniket-Choudhari/Face-Detection-and-Tracking.git
 2. Navigate to the project directory:
    bash
    cd Face-Detection-and-Tracking
